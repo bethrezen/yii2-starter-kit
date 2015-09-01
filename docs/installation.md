@@ -32,7 +32,7 @@ git clone https://github.com/trntv/yii2-starter-kit.git
 #### Install composer dependencies
 ```
 composer install
-``
+```
 ### Get source code via Composer
 You can install this application template with `composer` using the following command:
 
